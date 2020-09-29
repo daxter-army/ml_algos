@@ -1,2 +1,2 @@
 # ML Algorithms
-All models are wrong, but some models are useful...
+Repo for ml algos (included in semester)
