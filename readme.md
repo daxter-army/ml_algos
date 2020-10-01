@@ -1,2 +1,2 @@
 # ML Algorithms
-Repo for ml algos (included in semester)
+Companion Repo for ml algos
