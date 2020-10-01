@@ -1,2 +1,2 @@
 # ML Algorithms
-Companion Repo for ml algos
+Companion repo for ml algos
